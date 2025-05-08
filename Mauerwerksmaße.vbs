@@ -94,7 +94,7 @@ ElseIf Result < 100*1000 Then
   Result = Result / 100 & " m"
 
 ' Falls größer als 1000 m dann wird das Maß in km angegeben
-ElseIf Result > 100*1000 Then
+ElseIf Result >= 100*1000 Then
   Result = Result / 100 / 1000 & " km"
 End If
 
