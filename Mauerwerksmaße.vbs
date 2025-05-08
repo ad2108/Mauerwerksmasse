@@ -33,20 +33,6 @@ End Function
 MsgBox_Name = "Mauerwerksmasse"
 
 ' --------------------------------------------------
-' Anfang der Ausführung (Abbildung öffnen)
-
-' ShellObjekt zuweisen
-Set objShell = CreateObject("Wscript.Shell")
-
-' Abfrage ob Abbildung angezeigt werden soll
-Bild_Anzeigen = MsgBox("Abbildung oeffnen?", vbYesNo, MsgBox_Name)
-
-' Falls Ja, wird über die Shell die Abbildung geöffnet
-If Bild_Anzeigen = vbYes Then
-  objShell.Run("https://i.pinimg.com/originals/1f/16/79/1f1679c01186000db88932e787d177d3.png")
-End If
-
-' --------------------------------------------------
 ' Eingabe der Option
 
 Input_Option = InputBox("1. Aussenmass A" & vbCrLf & "2. Oeffnungsmass O" &  vbCrLf & "3. Vorsprungmass V", MsgBox_Name)
