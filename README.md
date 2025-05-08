@@ -28,15 +28,15 @@ Die Ergebnisse dieser Formeln sind in cm. Im vorliegenden Script werden jedoch M
 
 ## Eingabe
 
-![image]("images/Auswahl.png")
+![image](images/Auswahl.png)
 
 *Abbildung 1: Auswahl von des Maßes*
 
-![image]("images/Anzahl_Achtelmaß.png")
+![image](images/Anzahl_Achtelmaß.png)
 
 *Abbildung 2: Eingabe Vielfaches des Achtelmaßes*
 
-![image]("images/Ausgabe.png")
+![image](images/Ausgabe.png)
 
 *Abbildung 3: Ausgebe des Ergebnisses*
 
