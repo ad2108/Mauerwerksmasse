@@ -38,6 +38,6 @@ Die Ergebnisse dieser Formeln sind in cm. Im vorliegenden Script werden jedoch M
 
 ![image](images/Ausgabe.png)
 
-*Abbildung 3: Ausgebe des Ergebnisses*
+*Abbildung 3: Ausgabe des Ergebnisses*
 
 
