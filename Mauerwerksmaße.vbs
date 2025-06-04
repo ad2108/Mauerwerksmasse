@@ -4,7 +4,7 @@
 
 ' Author: ad2108
 ' Version: 1.0
-' Date: 2025-05-08
+' Date: 2025-06-04
 ' License: MIT
 
 ' Description:
@@ -60,10 +60,10 @@ End If
 Do While True:
 
 ' --------------------------------------------------
-' Eingabe der Anzahl der Achtelmaße und
+' Eingabe der Anzahl der Achtelmaße (Steine) und
 ' Konvertierung der Zahl in eine Ganzzahl
 
-Input_Anzahl_Achtelmass = InputBox("Anzahl der Achtelmasse", MsgBox_Name)
+Input_Anzahl_Achtelmass = InputBox("Anzahl der Achtelmasse (Steine)", MsgBox_Name)
 Input_Anzahl_Achtelmass = Int(Input_Anzahl_Achtelmass)
 
 ' --------------------------------------------------
