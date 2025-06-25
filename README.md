@@ -6,7 +6,7 @@ Dies ist ein simples VB Script, dass Mauerwerksmaße für Außenmaße, Öffnungs
 
 ### Außenmaß
 
-Das Außenmass wird in diesem Sript wie folgt berechnet:
+Das Außenmaß wird in diesem Script wie folgt berechnet:
 
 $A = Anzahl_{Achtelmaß} \cdot 12.5  - 1$
 
@@ -22,7 +22,7 @@ Das Vorsprungsmaß wird in diesem wie folgt berechnet:
 
 $V = Anzahl_{Achtelmaß} \cdot 12.5$
 
-### Anmerkung zum Ergebniss
+### Anmerkung zum Ergebnis
 
 Die Ergebnisse dieser Formeln sind in cm. Im vorliegenden Script werden jedoch Maße größer 100 cm auf m, und Maße größer 100\*1000 cm auf km ungerechnet.
 
